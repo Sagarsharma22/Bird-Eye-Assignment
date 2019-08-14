@@ -1,0 +1,6 @@
+framework module Pods_Bird_Eye_AssignmentUITests {
+  umbrella header "Pods-Bird Eye AssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
